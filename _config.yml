@@ -14,8 +14,7 @@ twitter: juniorsi16
 github: roinuj16
 facebook: Roinuj16
 linkedin: roinuj16
-bio: "Brazilian developer. 
-I'm graduated in Information System.
+bio: "I'm graduated in Information System.
 Always taste improve and update my knowledge for this reason I am always taking courses and taste also exchange experiences and knowledge with those around me.
 I'm Back-End Developer with PHP, but I like Front End."
 
@@ -41,19 +40,11 @@ front-end:
   - name: jQuery
     level: 4
   - name: Angular
-    level: 4
-  - name: Vue.js
-    level: 2
+    level: 3
   - name: Bootstrap
     level: 4
   - name: Materialize CSS
-    level: 5
-  - name: LESS
     level: 3
-  - name: SASS
-    level: 3
-  - name: Stylus
-    level: 4
   - name: Gulp
     level: 4
   - name: Grunt
@@ -63,47 +54,27 @@ front-end:
 
 back-end:
   - name: PHP
-    level: 5
-  - name: Node.js
-    level: 3
-  - name: Ruby
-    level: 2
-  - name: Python
-    level: 2
-  - name: Java
     level: 4
-  - name: COBOL
+  - name: Node.js
     level: 2
   - name: SQL
     level: 4
-  - name: Lua
-    level: 2
 
 mobile:
-  - name: Android
-    level: 2
   - name: Apache Cordova
-    level: 4
+    level: 2
   - name: Ionic
-    level: 4
-  - name: NativeScript
-    level: 3
+    level: 2
 
 db:
   - name: MySQL
     level: 4
   - name: PostgreSQL
     level: 3
-  - name: MongoDB
-    level: 4
   - name: SQL Server
     level: 2
   - name: Oracle
     level: 3
-  - name: Firebase
-    level: 3
-  - name: NoSQL
-    level: 4
 
 devops:
   - name: Docker
@@ -113,35 +84,19 @@ devops:
   - name: Jenkins
     level: 1
   - name: Git
-    level: 5
-  - name: Apache Maven
-    level: 3
-  - name: Continuous Integration
-    level: 3
-  - name: Continuous Delivery
-    level: 2
+    level: 4
 
 methodologies:
   - name: Agile Methodologies
     level: 3
   - name: Scrum
-    level: 4
+    level: 3
   - name: RUP
     level: 3
 
 others:
-  - name: Web Services
-    level: 5
   - name: REST
-    level: 5
-  - name: JEE, JSF, JPA, EJB, CDI
     level: 3
-  - name: iReport, Jasper Reports
-    level: 2
-  - name: Hibernate
-    level: 3
-  - name: Grails
-    level: 2
   - name: Symfony
     level: 3
   - name: Twig
@@ -149,12 +104,6 @@ others:
   - name: Doctrine ORM
     level: 3
   - name: Laravel, Blade, Eloquent ORM
-    level: 5
-  - name: Ruby on Rails
-    level: 3
-  - name: MEAN Stack
-    level: 4
-  - name: Spring
     level: 3
 
 # Build settings
