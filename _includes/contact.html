@@ -6,19 +6,12 @@
       <input id="email" type="email" name="email" placeholder="Your email" required>
       <label for="message" class="screen-reader">Message:</label>
       <textarea id="message" name="message" placeholder="Your message" onkeyup="adjust_textarea(this)" required></textarea>
-      <button onclick="sendMail()" type="submit">Send</button>      
+      <button type="submit">Send</button>      
     </fieldset>
   </form>
 </section>
 
 <script type="text/javascript">
-
-function sendMail(event) 
-{
-  alert('certo...');return false;
-}
-
-
   function adjust_textarea(textarea) {
     textarea.style.height = "20px";
     textarea.style.height = (textarea.scrollHeight)+"px";
