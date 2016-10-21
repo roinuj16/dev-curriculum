@@ -44,9 +44,9 @@ front-end:
   - name: Bootstrap
     level: 4
   - name: Materialize CSS
-    level: 3
+    level: 2
   - name: Gulp
-    level: 4
+    level: 3
   - name: Grunt
     level: 3
   - name: Bower
@@ -64,7 +64,7 @@ mobile:
   - name: Apache Cordova
     level: 2
   - name: Ionic
-    level: 2
+    level: 1
 
 db:
   - name: MySQL
