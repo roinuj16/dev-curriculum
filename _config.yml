@@ -105,7 +105,6 @@ others:
     level: 3
   - name: Laravel, Blade, Eloquent ORM
     level: 3
-
 # Build settings
 
 markdown: kramdown
