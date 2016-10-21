@@ -173,4 +173,3 @@ exclude: ['package.json', 'node_modules', 'README.md', 'LICENSE']
 
 # Gems
 gems: [jekyll-sitemap]
-
