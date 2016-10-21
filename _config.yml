@@ -43,8 +43,6 @@ front-end:
     level: 3
   - name: Bootstrap
     level: 4
-  - name: Materialize CSS
-    level: 2
   - name: Gulp
     level: 3
   - name: Grunt
@@ -121,4 +119,3 @@ exclude: ['package.json', 'node_modules', 'README.md', 'LICENSE']
 
 # Gems
 gems: [jekyll-sitemap]
- 
